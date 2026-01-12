@@ -1,0 +1,2 @@
+Esta é uma atividade prática de Git e GitHub.
+Estou aprendendo o básico de versionamento.
